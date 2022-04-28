@@ -96,7 +96,7 @@ def processHome():
            '</head>' \
            '<body> <div id="container">' \
            '<a href="/"> SocialED </a> | <a href="home"> Inicio </a> | <a href="login"> Acceso </a> | <a href="signup"> Registro </a>' \
-           '<h1>Hola internauta, qué tal estás?</h1>' \
+           '<h1>Hola internauta, quï¿½ tal estï¿½s?</h1>' \
            '<form action="processHome" method="post" name="home"> ' \
            '<label for="message">Escribe algo...</label><div class="inputs">' \
            '<input id="message" maxlength="128" name="message" size="80" type="text" required="true" value=""/>' \
